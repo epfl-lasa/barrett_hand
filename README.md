@@ -4,6 +4,12 @@ Description
 ROS package to control the Barrett Hand 
 
 
+Instructions
+------------
+
+http://wiki.ros.org/barrett_hand
+
+
 External dependencies
 ---------------------
 
